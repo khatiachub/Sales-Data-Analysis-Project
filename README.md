@@ -28,6 +28,15 @@ A dynamic reporting layer that aggregates daily transactions into monthly trends
 > [!TIP]
 > 
 <img width="681" height="373" alt="Screenshot 2026-01-31 021816" src="https://github.com/user-attachments/assets/3aba607b-3b07-48ae-8fbf-c738a1ad914a" />
+<img width="647" height="426" alt="8" src="https://github.com/user-attachments/assets/0497e756-8b35-4a30-a0fb-385eaf5efeae" />
+<img width="297" height="383" alt="14" src="https://github.com/user-attachments/assets/9aa89a95-15d4-4a59-9b4e-15a3ed2b4568" />
+<img width="754" height="414" alt="3" src="https://github.com/user-attachments/assets/33b7dd9e-8c2b-4699-b91c-e08734c17b29" />
+<img width="744" height="423" alt="11" src="https://github.com/user-attachments/assets/1943f444-3090-464c-9b4f-57155aa15632" />
+<img width="755" height="420" alt="5" src="https://github.com/user-attachments/assets/e4569b0f-8352-432f-a666-f96138ea77d0" />
+<img width="760" height="431" alt="12" src="https://github.com/user-attachments/assets/a823d355-9dd2-49f4-be73-62d65b1b43ec" />
+<img width="724" height="415" alt="7" src="https://github.com/user-attachments/assets/fc1b07b0-4c99-48bd-ab42-4ab7e4acdc7b" />
+<img width="752" height="426" alt="13" src="https://github.com/user-attachments/assets/edad0e46-88eb-41f0-a9d7-e520877944d6" />
+
 
 
 
