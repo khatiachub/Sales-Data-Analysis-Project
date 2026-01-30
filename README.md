@@ -28,14 +28,20 @@ A dynamic reporting layer that aggregates daily transactions into monthly trends
 > [!TIP]
 > 
 <img width="681" height="373" alt="Screenshot 2026-01-31 021816" src="https://github.com/user-attachments/assets/3aba607b-3b07-48ae-8fbf-c738a1ad914a" />
-<img width="647" height="426" alt="8" src="https://github.com/user-attachments/assets/0497e756-8b35-4a30-a0fb-385eaf5efeae" />
-<img width="297" height="383" alt="14" src="https://github.com/user-attachments/assets/9aa89a95-15d4-4a59-9b4e-15a3ed2b4568" />
-<img width="754" height="414" alt="3" src="https://github.com/user-attachments/assets/33b7dd9e-8c2b-4699-b91c-e08734c17b29" />
-<img width="744" height="423" alt="11" src="https://github.com/user-attachments/assets/1943f444-3090-464c-9b4f-57155aa15632" />
-<img width="755" height="420" alt="5" src="https://github.com/user-attachments/assets/e4569b0f-8352-432f-a666-f96138ea77d0" />
-<img width="760" height="431" alt="12" src="https://github.com/user-attachments/assets/a823d355-9dd2-49f4-be73-62d65b1b43ec" />
-<img width="724" height="415" alt="7" src="https://github.com/user-attachments/assets/fc1b07b0-4c99-48bd-ab42-4ab7e4acdc7b" />
-<img width="752" height="426" alt="13" src="https://github.com/user-attachments/assets/edad0e46-88eb-41f0-a9d7-e520877944d6" />
+<img width="549" height="395" alt="2" src="https://github.com/user-attachments/assets/cb15b7c9-40b6-431c-ad39-5990f38f3a0c" />
+<img width="715" height="418" alt="10" src="https://github.com/user-attachments/assets/88f182f9-e0dc-4e15-85f9-2fc29157b3c7" />
+<img width="667" height="383" alt="6" src="https://github.com/user-attachments/assets/f90483b9-3879-4de6-864e-edcaa5b29a64" />
+<img width="758" height="416" alt="4" src="https://github.com/user-attachments/assets/f86cf46e-b8cc-4116-a790-6df16958f247" />
+<img width="754" height="414" alt="3" src="https://github.com/user-attachments/assets/886cfa32-a226-4e20-8281-822e48e4f8a2" />
+<img width="744" height="423" alt="11" src="https://github.com/user-attachments/assets/97f4a9c1-f1cb-424d-8d6c-4661566371d9" />
+<img width="755" height="420" alt="5" src="https://github.com/user-attachments/assets/d6cd38f2-faed-4c8c-a03b-5feb0a3982cc" />
+<img width="760" height="431" alt="12" src="https://github.com/user-attachments/assets/edd7eb7d-7982-4e44-b511-7e5ea9c975d4" />
+<img width="724" height="415" alt="7" src="https://github.com/user-attachments/assets/0f81cdc6-7631-4fc1-9256-5383f3dd3afd" />
+<img width="752" height="426" alt="13" src="https://github.com/user-attachments/assets/effc5bd6-6d05-4261-9e61-9b7d62864853" />
+<img width="297" height="383" alt="14" src="https://github.com/user-attachments/assets/cc668697-20fc-4e07-a50b-0d52722aaa4d" />
+<img width="647" height="426" alt="8" src="https://github.com/user-attachments/assets/2d312705-9430-472d-b974-ffd25dd2ac21" />
+
+
 
 
 
