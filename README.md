@@ -26,7 +26,8 @@ A dynamic reporting layer that aggregates daily transactions into monthly trends
 
 ## 📈 Dashboard Preview
 > [!TIP]
-> *Insert a screenshot of your Power BI Dashboard here to make an immediate impact!*
+> 
+<img width="681" height="373" alt="Screenshot 2026-01-31 021816" src="https://github.com/user-attachments/assets/3aba607b-3b07-48ae-8fbf-c738a1ad914a" />
 
 
 
